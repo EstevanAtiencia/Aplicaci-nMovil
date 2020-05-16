@@ -1,9 +1,6 @@
 # DroidOps App
 Folow this tutorial to setup CI/CD pipeline with manual approval using android.
-
-Demo: https://youtu.be/dwMd_Lne3xs 
-
-Article on Medium: https://medium.com/@andreyderma/use-android-to-deploy-your-code-how-to-integrate-your-pipeline-in-aws-codepipeline-with-android-bcdb4137151d
+ 
 
 #How to run?
 Clone or download this repository to your local machine.
@@ -24,4 +21,3 @@ https://docs.aws.amazon.com/aws-mobile/latest/developerguide/add-aws-mobile-nosq
 
 Download **awsconfiguration.json** and move to **/app/src/main/res/raw/** 
 Rebuild Android studio project and run.
-
